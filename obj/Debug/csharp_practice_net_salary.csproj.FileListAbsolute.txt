@@ -1,0 +1,6 @@
+E:\Project\Practice\csharp_practice_net_salary\bin\Debug\csharp_practice_net_salary.exe
+E:\Project\Practice\csharp_practice_net_salary\bin\Debug\csharp_practice_net_salary.pdb
+E:\Project\Practice\csharp_practice_net_salary\obj\Debug\csharp_practice_net_salary.csproj.AssemblyReference.cache
+E:\Project\Practice\csharp_practice_net_salary\obj\Debug\csharp_practice_net_salary.csproj.CoreCompileInputs.cache
+E:\Project\Practice\csharp_practice_net_salary\obj\Debug\csharp_practice_net_salary.exe
+E:\Project\Practice\csharp_practice_net_salary\obj\Debug\csharp_practice_net_salary.pdb
